@@ -10,16 +10,16 @@ Bem-vindo\! 👋 Este projeto foi meu desafio pessoal para consolidar os pilares
 
 O resultado é uma ferramenta de console que não é apenas funcional, mas também **visualmente agradável de usar**, graças à implementação de códigos de cores ANSI. É um ótimo exercício prático e uma ferramenta divertida para testar contagens e realizar cálculos rápidos.
 
-## 🚀 Funcionalidades
+🚀 Funcionalidades
 
 O menu principal é o coração do programa, um loop `do-while` que oferece acesso fácil a duas seções principais:
 
-### 🔢 Contador
+🔢 Contador
 
   * **Contagem Crescente:** Você define o início, o fim e o passo. O programa faz o resto.
   * **Contagem Decrescente:** Perfeita para uma contagem regressiva personalizada\!
 
-### 🧠 Calculadora
+🧠 Calculadora
 
   * **Soma:** Adição simples entre dois números.
   * **Subtração:** Calcula a diferença entre dois valores.
@@ -27,7 +27,7 @@ O menu principal é o coração do programa, um loop `do-while` que oferece aces
   * **Divisão:** Executa a divisão com **validação anti-erro**, impedindo ativamente que o divisor seja zero.
   * **Tabuada:** Exibe a tabuada completa (de 1 a 10) de qualquer número escolhido.
 
-##🎨 A Experiência: Console com Cores
+🎨 A Experiência: Console com Cores
 
 Para fugir do terminal monocromático, implementei **códigos ANSI** para dar vida à interface. Cada cor tem um propósito claro:
 
@@ -38,7 +38,7 @@ Para fugir do terminal monocromático, implementei **códigos ANSI** para dar vi
 
 Isso torna a navegação muito mais intuitiva e dinâmica, mesmo em um ambiente de console.
 
-##⚙️ Como Executar
+⚙️ Como Executar
 
 1.  Certifique-se de ter o **Java JDK** (versão 8 ou superior) instalado.
 
@@ -79,7 +79,7 @@ Isso torna a navegação muito mais intuitiva e dinâmica, mesmo em um ambiente 
 
 > **Nota:** A exibição de cores é compatível com a maioria dos terminais modernos (Git Bash, Windows Terminal, terminais Linux/macOS).
 
-## 🧠 O "Cérebro": Tecnologias e Conceitos
+🧠 O "Cérebro": Tecnologias e Conceitos
 
 Este projeto foi 100% focado em **Java puro**, aplicando conceitos essenciais:
 
@@ -89,6 +89,6 @@ Este projeto foi 100% focado em **Java puro**, aplicando conceitos essenciais:
   * **Lógica de Operação:** Loops `for` (para contagens e tabuada) e `if`/`while` (para validações, como a divisão por zero).
   * **Estilo:** Constantes `final String` armazenando códigos de escape ANSI para as cores.
 
-### 🧑‍💻 Desenvolvido por Matheus S. Mariano
+🧑‍💻 Desenvolvido por Matheus S. Mariano
 
 > *“A prática leva à evolução. Cada linha de código é um passo adiante.”*
